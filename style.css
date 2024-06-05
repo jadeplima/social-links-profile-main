@@ -149,7 +149,21 @@ p {
     cursor: pointer;
 }
 
-.attributtion {
+.attribution {
+    width: 280px;
+    height: 40px;
+    color: var(--white);
+    background-color: var();
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: var(--font-weight-Regular-400);
+    font-size: 0.5rem;
+}
+
+.attributtion a {
+    color: hsl(228, 45%, 44%);
 
 }
 
